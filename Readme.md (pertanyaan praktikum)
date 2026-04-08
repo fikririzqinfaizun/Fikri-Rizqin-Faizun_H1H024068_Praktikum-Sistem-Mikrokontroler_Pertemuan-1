@@ -11,7 +11,7 @@ jawaban :
 3. Fungsi delay(timeDelay) adalah untuk:
   -Mengatur lama waktu LED menyala dan mati
   -Menentukan kecepatan kedipan LED
-4. ()
+4. (terdapat di Readme Source Code1.md)
 
 
 1.6.4 Pertanyaan Praktikum
@@ -41,4 +41,4 @@ jawaban :
    7 → 6 → 5 → 4 → 3 → 2
    Hasil:
    LED terlihat bergerak balik ke kiri
-4. (Terdapat di README2.md)
+4. (terdapat di Readme Source Code2.md)
